@@ -1,6 +1,0 @@
-resources:
-  - deployment.yaml
-  - service.yaml
-images:
-  - name: wil42/playground
-    newTag: v1
